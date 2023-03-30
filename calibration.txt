@@ -1,0 +1,5 @@
+Kalibrierung von NTC
+
+Es gibt 2 Möglichkeiten um Sensoren zu Kalibrieren
+  - Kalibrierung an Fixpunkten
+  - Vergleichsmethode
