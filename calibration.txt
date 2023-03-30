@@ -12,3 +12,8 @@ Wenn dieser Punkt erreicht ist, dann bleibt die Temperatur für langezeit konsta
 Auf diese erreichte konstante Temperatur kann die Abweichung der Prüflings exakt ermitten werden.
 Die Fixpunktmethode eignet sich für Thermometer mit höhe Anforderungen an Reproduzierbarkeit und Genauigkeit.
 Solche Thermometer werden selbst als Referenz Thermo-element eingesetzt.
+
++ Bei der Vergleichsmethode werden Messwerte des Kalibrierobjekts mit einer Referenz Thermo-Element abgeglichen.
+dafür werden Prüfling und Kalibrierobjekt zusammen in einen gleichen Umgebungstemperatur (z.B Kalibrierbad, Klimaschrank, ...)
+eingeführt. An unterschiedliche Messpunkt wird die Abweichung des Thermistors vom Referenzthermometer festgehalten.
+Die Rückführbarkeitdes Referenzthermometers ermöglicht unterschiedliche Genauigkeitsstufen.
