@@ -17,3 +17,4 @@ Solche Thermometer werden selbst als Referenz Thermo-element eingesetzt.
 dafür werden Prüfling und Kalibrierobjekt zusammen in einen gleichen Umgebungstemperatur (z.B Kalibrierbad, Klimaschrank, ...)
 eingeführt. An unterschiedliche Messpunkt wird die Abweichung des Thermistors vom Referenzthermometer festgehalten.
 Die Rückführbarkeitdes Referenzthermometers ermöglicht unterschiedliche Genauigkeitsstufen.
+Die Messunsicherheit sind deutlich höher als in Fixpunktverfahren.
