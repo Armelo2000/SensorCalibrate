@@ -19,6 +19,9 @@ eingeführt. An unterschiedliche Messpunkt wird die Abweichung des Thermistors v
 Die Rückführbarkeitdes Referenzthermometers ermöglicht unterschiedliche Genauigkeitsstufen.
 Die Messunsicherheit sind deutlich höher als in Fixpunktverfahren.
 
+In dieser Aufgabe wird  einige Punkte gemessen und in einer Tabelle eingetragen. Die gemessene werden dann mit dem gerechneten Wert 
+verglichen und die daraus entstehende Differenz ist die Abweichung von Sensor.
+
 
 Beispiel von gemessene Werte
 0°C   --> 59.7KOhm
