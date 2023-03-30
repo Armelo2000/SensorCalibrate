@@ -23,3 +23,5 @@ Die Messunsicherheit sind deutlich höher als in Fixpunktverfahren.
 Beispiel von gemessene Werte
 0°C   --> 59.7KOhm
 25°C  --> 20.2KOhm
+
+Beta wert Berechnen und vergleichen
