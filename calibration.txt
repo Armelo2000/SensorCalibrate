@@ -7,4 +7,6 @@ Es gibt 2 Möglichkeiten um Temperatursensoren zu Kalibrieren
 + Fixpunkten beschreiben allgemein Temperaturen bei denen Stoffe Ihre Aggregatzustände ändern.
 Am Tripelpunkt von Wasser besteht das Wasser zu gleiche Teilen aus Wasserdampf, Eis und flüssigem Wasser.
 Diese Punkt ist bei genauc 0.01°C definiert.
-Um den Tripelpunkt zu erreichen ist ein Zeitaufwndiges und Komplexes verfahren
+Um den Tripelpunkt zu erreichen ist ein Zeitaufwndiges und Komplexes verfahren nötig.
+Wenn dieser Punkt erreicht ist, dann bleibt die Temperatur für langezeit konstant.
+Auf diese erreichte konstante Temperatur kann die Abweichung der Prüflings exakt ermitten werden.
