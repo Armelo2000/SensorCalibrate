@@ -18,3 +18,8 @@ dafür werden Prüfling und Kalibrierobjekt zusammen in einen gleichen Umgebungs
 eingeführt. An unterschiedliche Messpunkt wird die Abweichung des Thermistors vom Referenzthermometer festgehalten.
 Die Rückführbarkeitdes Referenzthermometers ermöglicht unterschiedliche Genauigkeitsstufen.
 Die Messunsicherheit sind deutlich höher als in Fixpunktverfahren.
+
+
+Beispiel von gemessene Werte
+0°C   --> 59.7KOhm
+25°C  --> 20.2KOhm
