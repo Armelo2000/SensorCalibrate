@@ -11,3 +11,4 @@ Um den Tripelpunkt zu erreichen ist ein Zeitaufwndiges und Komplexes verfahren n
 Wenn dieser Punkt erreicht ist, dann bleibt die Temperatur für langezeit konstant.
 Auf diese erreichte konstante Temperatur kann die Abweichung der Prüflings exakt ermitten werden.
 Die Fixpunktmethode eignet sich für Thermometer mit höhe Anforderungen an Reproduzierbarkeit und Genauigkeit.
+Solche Thermometer werden selbst als Referenz Thermo-element eingesetzt.
