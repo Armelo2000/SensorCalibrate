@@ -10,3 +10,4 @@ Diese Punkt ist bei genauc 0.01°C definiert.
 Um den Tripelpunkt zu erreichen ist ein Zeitaufwndiges und Komplexes verfahren nötig.
 Wenn dieser Punkt erreicht ist, dann bleibt die Temperatur für langezeit konstant.
 Auf diese erreichte konstante Temperatur kann die Abweichung der Prüflings exakt ermitten werden.
+Die Fixpunktmethode eignet sich für Thermometer mit höhe Anforderungen an Reproduzierbarkeit und Genauigkeit.
