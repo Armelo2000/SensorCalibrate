@@ -34,3 +34,20 @@ float Temperatur(float Rlow, float Rmiddle, float Rhigh,
 
   return Result;
 }
+
+float mittelwert(float werte[], int length){
+	if(werte == (float *)0) return 0.0;
+	
+	int i=0;
+	int count = 0;
+	float result = 0.0;
+	for(i=0; i<length; i++){
+		result += werte[i];
+		count++;
+	}
+	
+	if(count > 0)
+		result = result / count;
+	
+	return result;
+}
