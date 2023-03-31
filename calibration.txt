@@ -1,6 +1,6 @@
 Kalibrierung von NTC
 
-Es gibt 2 Möglichkeiten um Temperatursensoren zu Kalibrieren
+Es gibt verschieden Möglichkeiten um Temperatursensoren zu Kalibrieren
   - Kalibrierung an Fixpunkten
   - Vergleichsmethode
 
@@ -22,7 +22,19 @@ Die Messunsicherheit sind deutlich höher als in Fixpunktverfahren.
 In dieser Aufgabe wird  einige Punkte gemessen und in einer Tabelle eingetragen. Die gemessene werden dann mit dem gerechneten Wert 
 verglichen und die daraus entstehende Differenz ist die Abweichung von Sensor.
 
-
+Schritte zum Kalibrieren
+  - Widerstand bei verschidene Temperaturen messen und in Tabelle eintragen.
+  - Steinhard-Hart-Koeffizient berechnen (a0, a1, a3)
+  - Mittelwert von Steinhard-Hart-Koeffizient berechnet
+  - Abweichung berechnen
+  - Empfindlichkeitskoeffizient berechnen
+  - Temperatur des Messobjekt ermitteln
+  
+Erste Schritte
+   - Wiederstand bei verschiedener Temperatur messen
+   - es wird immer 3 Messwerten für die Berechnung der Koeffiziente a0, a1, und a3 verwenden.
+   - 
+   
 Beispiel von gemessene Werte
 0°C   --> 59.7KOhm
 25°C  --> 20.2KOhm
