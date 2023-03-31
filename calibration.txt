@@ -33,12 +33,17 @@ Schritte zum Kalibrieren
         //85°C --> 0.28V --> 1.157KOhm
         
         Es soll die 3 Koeffizienten mit folgende Temperaturen kombinationen berechnen werden
-          1.  25°C  45°C  65°C
-          2.  45°C  65°C  85°C
-          3.  25°C  45°C  85°C
-          4.  25°C  65°C  85°C
+          1.  25°C  45°C  65°C  --> a0, a1, a3
+          2.  45°C  65°C  85°C  --> a0, a1, a3
+          3.  25°C  45°C  85°C  --> a0, a1, a3
+          4.  25°C  65°C  85°C  --> a0, a1, a3
+          
+          die Summe alle 4 a0 werden durch 4 geteilt um den Mittelwert zu bekommen. Das gleiche gilt auch für a1 und a3
           
   - Abweichung berechnen
+      Die Abweichung ist die Differenz von gemessene Temperatur zur erwartete (normal) Temperatur.
+      Delta = Tgemessen - Tnormal
+      
   - Empfindlichkeitskoeffizient berechnen
   - Temperatur des Messobjekt ermitteln
   
