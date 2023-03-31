@@ -26,6 +26,18 @@ Schritte zum Kalibrieren
   - Widerstand bei verschidene Temperaturen messen und in Tabelle eintragen.
   - Steinhard-Hart-Koeffizient berechnen (a0, a1, a3). Es wird immer 3 Messwerten für die Berechnung von Koeffiziente a0, a1 und a3 benötigt.
   - Mittelwert von Steinhard-Hart-Koeffizient berechnet
+    z.B Bei gemessene Werte
+        //25°C --> 1.2V --> 8KOhm
+        //45°C --> 0.73V --> 3.705KOhm
+        //65°C --> 0.44V --> 1.946KOhm
+        //85°C --> 0.28V --> 1.157KOhm
+        
+        Es soll die 3 Koeffizienten mit folgende Temperaturen kombinationen berechnen werden
+          1.  25°C  45°C  65°C
+          2.  45°C  65°C  85°C
+          3.  25°C  45°C  85°C
+          4.  25°C  65°C  85°C
+          
   - Abweichung berechnen
   - Empfindlichkeitskoeffizient berechnen
   - Temperatur des Messobjekt ermitteln
