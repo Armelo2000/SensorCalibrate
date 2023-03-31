@@ -44,6 +44,6 @@ Schritte zum Kalibrieren
       Die Abweichung ist die Differenz von gemessene Temperatur zur erwartete (normal) Temperatur.
       Delta = Tgemessen - Tnormal
       
-  - Empfindlichkeitskoeffizient berechnen
   - Temperatur des Messobjekt ermitteln
+      Die Temperatur ist dann der gemessene Wert plus die Summe alle Fehler (Abweichungen)
   
