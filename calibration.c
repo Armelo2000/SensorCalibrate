@@ -5,6 +5,8 @@
 //Rmiddle ist der gemessene Widerstand bei der Temperatur Tmiddle
 //Rhigh ist der gemessene Widerstand bei der Temperatur Thigh
 
+
+//Quelle:  //https://de.wikipedia.org/wiki/Steinhart-Hart-Gleichung
 float Temperatur(float Rlow, float Rmiddle, float Rhigh,
 				 float Tlow, float Tmiddle, float Thigh, float R_current){
 
