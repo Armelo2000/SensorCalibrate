@@ -24,19 +24,9 @@ verglichen und die daraus entstehende Differenz ist die Abweichung von Sensor.
 
 Schritte zum Kalibrieren
   - Widerstand bei verschidene Temperaturen messen und in Tabelle eintragen.
-  - Steinhard-Hart-Koeffizient berechnen (a0, a1, a3)
+  - Steinhard-Hart-Koeffizient berechnen (a0, a1, a3). Es wird immer 3 Messwerten für die Berechnung von Koeffiziente a0, a1 und a3 benötigt.
   - Mittelwert von Steinhard-Hart-Koeffizient berechnet
   - Abweichung berechnen
   - Empfindlichkeitskoeffizient berechnen
   - Temperatur des Messobjekt ermitteln
   
-Erste Schritte
-   - Wiederstand bei verschiedener Temperatur messen
-   - es wird immer 3 Messwerten für die Berechnung der Koeffiziente a0, a1, und a3 verwenden.
-   - 
-   
-Beispiel von gemessene Werte
-0°C   --> 59.7KOhm
-25°C  --> 20.2KOhm
-
-Beta wert Berechnen und vergleichen
